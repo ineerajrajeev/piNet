@@ -1,4 +1,4 @@
-# piNet
+# pieNet
 ## Translate Python Code to HTML
 
 pieNet is a python module built to work with seamlessly Web Development frameworks like Django and Flask. This module renders Python code to HTML
