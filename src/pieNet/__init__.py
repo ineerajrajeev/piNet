@@ -418,6 +418,12 @@ class html:
     class u(tag):
         def __init__(self, name=None, id=None, clas=None, style=None, accesskey=None, draggable=None):
             super().__init__('u',name, id, clas, style, accesskey, draggable)
+            
+    class style(tag):
+        return pass
+    
+    class script(tag):
+        return pass
 
     class video(tag):
         def __init__(self, autoplay=None, controls=None, loop=None, muted=None, preload=None, type=None, src=None):
